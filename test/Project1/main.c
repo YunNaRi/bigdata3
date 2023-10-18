@@ -2,6 +2,7 @@
 void test(void);
 int main(void) {
 	int k = 1;
+	int u = 9;
 	int w=0;
 	test();
 	if (k < w) {
